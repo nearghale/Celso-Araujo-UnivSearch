@@ -1,6 +1,6 @@
 # App Univsearch
 
-Este repo se trata de um desafio frontend, onde crio um app que contém sistema de auth, consumo de api e filtro de dados. 
+Este repo se trata de um desafio front-end, onde crio um app que contém sistema de auth, consumo de api e filtro de dados. 
 
 Foram criadas as seguintes features: 
 
@@ -25,7 +25,7 @@ Foram criadas as seguintes features:
 ## Rodando a aplicação
 Primeiro rode a aplicação seguindo o passo a passo abaixo: 
 
-### Para rodar o front
+### Para rodar o app
 Acesse a pasta: UnivSearch e execute no terminal, os seguintes passos: 
 
 ```jsx
