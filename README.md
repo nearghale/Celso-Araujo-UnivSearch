@@ -1,6 +1,6 @@
 # App Univsearch
 
-Este repo se trata de um desafio front-end, onde crio um app que contém sistema de auth, consumo de api e filtro de dados. 
+Este repo se trata de um desafio front-end, um app que contém sistema de auth, consumo de api e filtro de dados. 
 
 Foram criadas as seguintes features: 
 
@@ -40,5 +40,4 @@ react-native run-android
 - Esta aplicação foi focado na melhor arquitetura possível para o prazo de 2 dias🤗
 - Dessa forma, não consegui focar em um design mais criativo e trabalhado :(
 - Logo mais vou fazer um novo commit adicionando um design mais sofisticado =) 
-- Amei realizar este desafio!!! 👩‍💻💙
 
